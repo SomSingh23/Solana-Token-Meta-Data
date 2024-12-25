@@ -1,0 +1,12 @@
+{
+  "name": "Som Token",
+  "symbol": "Som Token",
+  "description": "Exists in the virtual world",
+  "image": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Golden"
+    }
+  ]
+}
