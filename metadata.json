@@ -2,7 +2,7 @@
   "name": "Som Token",
   "symbol": "Som Token",
   "description": "Exists in the virtual world",
-  "image": "https://drive.google.com/file/d/1pN7lXOrZ04HvruqrR7HKQ1tNiW1scFx-/view?usp=sharing",
+  "image": "https://raw.githubusercontent.com/SomSingh23/Solana-Token-Meta-Data/refs/heads/main/token_image.webp",
   "attributes": [
     {
       "trait_type": "Background",
